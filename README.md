@@ -1,4 +1,4 @@
-# MUSTAFA-DERVIS-WEB-TEKNOLOJI-1.-ODEV
+# MUSTAFA-DERVIŞ-WEB-TEKNOLOJI-1.-ÖDEV
 
 İlk başta yeni proje kuruldu İçinde kullanılan dillerin dosyalar bulundu ve
 bunlardan html CSS JAVASCRIPT PHP ve BOOTSTRAP sayfanın tasarımında
