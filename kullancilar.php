@@ -1,6 +1,6 @@
 <?php 
 
-$user = "b201210593@sakarya.edu.tr";
-$sifre = "b201210593";
+$user = "123@sakarya.edu.tr";
+$sifre = "123";
 
 ?>
